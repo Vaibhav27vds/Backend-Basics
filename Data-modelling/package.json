@@ -1,0 +1,16 @@
+{
+  "name": "data-modelling",
+  "version": "1.0.0",
+  "description": "Video-3 learning data modelling",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node data.js"
+  },
+  "author": "Vaibhav Deep Srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.4"
+  }
+}
